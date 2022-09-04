@@ -9,7 +9,7 @@ The project is built with basic web setup (HTML, CSS, and JavaScript).
 *Note: You need NodeJS installed in your machine to run formatter and server*
 
 ```
-git clone https://github.com/:your-github-username/Aelly.ai
+git clone https://github.com/AellyRbot/Aelly.ai
 cd Aelly.ai
 npm install
 npm run dev
